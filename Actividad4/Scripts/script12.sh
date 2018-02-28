@@ -1,4 +1,5 @@
 #!/bin/sh
+X=5
 if [ "$X" -lt "0" ]
 then
   echo "X is less than zero"
